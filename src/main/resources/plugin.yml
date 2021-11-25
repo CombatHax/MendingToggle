@@ -1,0 +1,6 @@
+name: Mendingtoggle
+version: '${project.version}'
+main: me.combathax.mendingtoggle.Mendingtoggle
+api-version: 1.17
+commands:
+  mendingtoggle:
